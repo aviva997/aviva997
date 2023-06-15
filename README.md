@@ -8,71 +8,28 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aviva997&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### About Me:
-I'm a passionate and dedicated software engineering student with a strong interest in web development. I love creating intuitive and user-friendly web experiences that solve real-world problems. Currently, I'm in my 4th year of studies, constantly learning and expanding my skillset.
+I'm Aviva Malako, a highly motivated and passionate software engineering student with a strong interest in web development. I'm currently in my 4th year of studies, pursuing a Bachelor's degree in Software Engineering. I have a deep love for coding and building innovative web applications that provide meaningful solutions to real-world problems. I thrive in collaborative environments and enjoy working in agile teams to deliver high-quality software.
 
-### How to Reach Me:
+### Skills:
+- **Front-end Development**: HTML5, CSS3, JavaScript, React, Bootstrap
+- **Back-end Development**: Node.js, Express.js
+- **Database**: MongoDB, MySql, Firebase
+- **Programming Languages**: C, C++, Java, Python
+- **Version Control**: Git, GitHub
+- **Operating Systems**: Linux, Windows
+
+
+
+### Contact Me:
 - 📧 Email: avivamalako996@gmail.com
+- 💼 LinkedIn: [Aviva Malako](https://www.linkedin.com/in/aviva-malako/)
 
-### Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/aviva-malako/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-### Languages and Tools:
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.w
-
-3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
+Feel free to reach out to me if you have any inquiries or would like to connect. I'm always open to new opportunities and collaborations.
 
 ### GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aviva997&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://
+
+github-readme-stats.vercel.app/api?username=aviva997&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
 </p>
 
