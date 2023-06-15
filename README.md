@@ -27,7 +27,7 @@ I'm Aviva Malako, a highly motivated and passionate software engineering student
 Feel free to reach out to me if you have any inquiries or would like to connect. I'm always open to new opportunities and collaborations.
 
 ### GitHub Stats:
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviva997&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aviva997&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
